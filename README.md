@@ -1,4 +1,5 @@
 # Graficas-Proyecto2RT
+El programa principal es gl.py en la carpeta gl.
 
 Imagen original:
 ![alt text](https://github.com/WooDose/Graficas-Proyecto2RT/blob/main/2015-07-13_0257269139627.jpg "Imagen Original")
