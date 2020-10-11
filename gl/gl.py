@@ -249,7 +249,7 @@ class Render(object):
 
 ##Please for the love of God don't use non-4 multiples for your dimensions unless you want to absoultely do you know what to your you know what.
 
-bitmap = Render(160,160,160,160, 0, 0)
+bitmap = Render(800,800,800,800, 0, 0)
 # ivory = Material(diffuse=(1,1,1), albedo=(0.3,  0.7, 1), spec=50)
 # rubber = Material(diffuse=(1,1,1), albedo=(1,  1, 0), spec=50)
 # bllackpearl = Material(diffuse=(0.1, 0.1, 0.1), albedo=(0.1,  0.9, 1), spec=50)
