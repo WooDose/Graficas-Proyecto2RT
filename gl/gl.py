@@ -266,6 +266,7 @@ dirt = Material(diffuse=(0.6,0.4,0.32), albedo=(.84, .16), spec=50, fuzzy=0.9)
 rock = Material(diffuse=(0.8,0.8,0.8), albedo=(.84, .16), spec=50, fuzzy=0.9)
 sun =  Material(diffuse=(0.93,0.55,0.22), albedo=(.84, .84), spec=50, fuzzy=0.9)
 cloud = Material(diffuse=(0.99,0.9978,0.9878), albedo=(.90, .90), spec=1, fuzzy=0.9)
+
 bitmap.lights = [
     Light(
     color=(1,1,1),
@@ -277,7 +278,7 @@ bitmap.lights = [
     Light(
     color=(1,1,1),
     position=V3(-1,-1,5),
-    intensity = 10,
+    intensity = 1000,
     is_anaglyph=False    
     )
 
